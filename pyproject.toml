@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bvill.apdft"
-version = "0.1.0-alpha"
+version = "0.1.0-alpha1"
 description = "Another PDF Tool helps you quickly operate on PDF files with actions such as rotate, merging, and splitting via the command-line. Currently only supports merging."
 authors = ["Brandon Villagran <bvillagran.dev@gmail.com>"]
 repository = "https://github.com/bvillagran/apdft"
