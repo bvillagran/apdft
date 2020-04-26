@@ -12,7 +12,9 @@ have a day job so I'm only working on this in my free time, development will lik
 slow.
 
 Author: Brandon Villagran <bvillagran.dev@gmail.com>
+
 Repository: https://github.com/bvillagran/apdft
+
 License: MIT
 
 **Table of Contents**
