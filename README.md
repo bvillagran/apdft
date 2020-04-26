@@ -11,6 +11,10 @@ Please stay tuned or open an issue or pull request if you'd like to help me out!
 have a day job so I'm only working on this in my free time, development will likely be
 slow.
 
+Author: Brandon Villagran <bvillagran.dev@gmail.com>
+Repository: https://github.com/bvillagran/apdft
+License: MIT
+
 **Table of Contents**
 - [Another PDF Tool](#another-pdf-tool)
   - [Download](#download)

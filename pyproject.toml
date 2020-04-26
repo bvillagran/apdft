@@ -3,6 +3,7 @@ name = "bvill.apdft"
 version = "0.1.0-alpha"
 description = "Another PDF Tool helps you quickly operate on PDF files with actions such as rotate, merging, and splitting via the command-line. Currently only supports merging."
 authors = ["Brandon Villagran <bvillagran.dev@gmail.com>"]
+repository = "https://github.com/bvillagran/apdft"
 readme = "README.md"
 license = "MIT"
 
